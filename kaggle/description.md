@@ -1,5 +1,14 @@
 # GTA 6 Launch Night on Kick.com — Hourly Viewership
 
+> ### Collected with the Kick Scraper on Apify
+> **https://apify.com/bhole_krishna/kick-scraper**
+>
+> Every row here came from that actor. Kick keeps no history, so the hours after this dataset
+> ends can only be obtained by collecting them live — point the actor at any category, put it on
+> an hourly schedule, and you are building the same record for whatever launches next. It also
+> returns past broadcasts with working VOD links, most-viewed clips, channel profiles, and all
+> 18,000+ Kick categories ranked by live viewers.
+
 ## Why this dataset exists
 
 Kick.com publishes only the present moment. Its public API will tell you how many people are
