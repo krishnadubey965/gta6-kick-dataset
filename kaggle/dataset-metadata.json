@@ -1,0 +1,33 @@
+{
+  "title": "GTA 6 Launch Night on Kick.com: Hourly Viewers",
+  "id": "YOUR_KAGGLE_USERNAME/gta-6-launch-night-kick-hourly-viewership",
+  "subtitle": "22 hourly snapshots: 7,905 to 1,353,198 concurrent viewers in 15 hours",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "internet",
+    "games",
+    "video games",
+    "social networks",
+    "time series",
+    "streaming",
+    "web scraping"
+  ],
+  "resources": [
+    {
+      "path": "gta6_viewers_hourly.csv",
+      "description": "The headline series: GTA 6 concurrent viewers and category rank per hourly snapshot, with Just Chatting, IRL, GTA V and Slots alongside for scale."
+    },
+    {
+      "path": "gta6_streams_hourly.csv",
+      "description": "Every live GTA 6 stream in every snapshot: 17,763 rows across 4,141 channels and 51 languages, with concurrent viewers, title, language and start time."
+    },
+    {
+      "path": "kick_categories_hourly.csv",
+      "description": "Every ranked Kick.com category in every snapshot (89 distinct categories), so GTA 6's rise can be read against the rest of the platform."
+    }
+  ]
+}

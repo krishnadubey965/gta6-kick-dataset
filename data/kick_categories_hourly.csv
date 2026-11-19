@@ -1,0 +1,716 @@
+snapshot_utc,rank,category,category_slug,viewers,parent_category,is_mature,category_url,apify_dataset_id
+2026-11-18T07:48Z,1,IRL,irl,240449,IRL,False,https://kick.com/category/irl,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,2,Just Chatting,just-chatting,159140,IRL,False,https://kick.com/category/just-chatting,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,3,Slots & Casino,slots,45049,Gambling,True,https://kick.com/category/slots,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,40521,Games,False,https://kick.com/category/grand-theft-auto-v,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,5,Rob Run,rob-run,33545,Games,False,https://kick.com/category/rob-run,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,6,Just Sleeping,just-sleeping,28081,Alternative,False,https://kick.com/category/just-sleeping,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,7,Wardogs,wardogs,21802,Games,False,https://kick.com/category/wardogs,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,8,PUBG Mobile,pubg-mobile,21002,Games,False,https://kick.com/category/pubg-mobile,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,9,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,12174,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,10,007 First Light,007-first-light,9739,Games,False,https://kick.com/category/007-first-light,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,11,VALORANT,valorant,9075,Games,False,https://kick.com/category/valorant,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,12,World of Warcraft: Forever,world-of-warcraft-forever,7147,Games,False,https://kick.com/category/world-of-warcraft-forever,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,13,Grand Theft Auto VI (GTA),grand-theft-auto-vi,6724,Games,False,https://kick.com/category/grand-theft-auto-vi,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,14,Dota 2,dota-2,6122,Games,False,https://kick.com/category/dota-2,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,15,League of Legends,league-of-legends,5639,Games,False,https://kick.com/category/league-of-legends,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,16,Battlegrounds Mobile India,battlegrounds-mobile-india,5108,Games,False,https://kick.com/category/battlegrounds-mobile-india,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,17,Teamfight Tactics,teamfight-tactics,4412,Games,False,https://kick.com/category/teamfight-tactics,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,18,Garena Free Fire,Garena-Free-Fire,3785,Games,False,https://kick.com/category/Garena-Free-Fire,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,19,Crypto & Trading,crypto-and-trading,3491,Alternative,False,https://kick.com/category/crypto-and-trading,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,20,Roblox,Roblox,3380,Games,False,https://kick.com/category/Roblox,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,21,Counter-Strike 2,counter-strike-2,3206,Games,False,https://kick.com/category/counter-strike-2,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,22,Fortnite,fortnite,3086,Games,False,https://kick.com/category/fortnite,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,23,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,2936,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,24,Music Stations,music-stations,2886,Music,False,https://kick.com/category/music-stations,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,25,Elden Ring,elden-ring,2581,Games,False,https://kick.com/category/elden-ring,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,26,Red Dead Redemption II,red-dead-redemption-ii,2293,Games,False,https://kick.com/category/red-dead-redemption-ii,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,27,Minecraft,minecraft,2061,Games,False,https://kick.com/category/minecraft,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,28,Tibia,Tibia,1653,Games,False,https://kick.com/category/Tibia,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,29,Chess,chess,1578,Games,False,https://kick.com/category/chess,gm8frFoQgRTaH6EpE
+2026-11-18T07:48Z,30,Dark Souls: Remastered,dark-souls:-remastered,1506,Games,False,https://kick.com/category/dark-souls:-remastered,gm8frFoQgRTaH6EpE
+2026-11-18T08:30Z,1,IRL,irl,189992,IRL,False,https://kick.com/category/irl,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,2,Just Chatting,just-chatting,121764,IRL,False,https://kick.com/category/just-chatting,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,3,Slots & Casino,slots,40408,Gambling,True,https://kick.com/category/slots,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,33969,Games,False,https://kick.com/category/grand-theft-auto-v,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,5,Rob Run,rob-run,24023,Games,False,https://kick.com/category/rob-run,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,6,Just Sleeping,just-sleeping,21948,Alternative,False,https://kick.com/category/just-sleeping,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,7,Wardogs,wardogs,21864,Games,False,https://kick.com/category/wardogs,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,8,PUBG Mobile,pubg-mobile,20551,Games,False,https://kick.com/category/pubg-mobile,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,9,Battlegrounds Mobile India,battlegrounds-mobile-india,19530,Games,False,https://kick.com/category/battlegrounds-mobile-india,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,10,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,13116,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,11,VALORANT,valorant,9457,Games,False,https://kick.com/category/valorant,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,12,007 First Light,007-first-light,9358,Games,False,https://kick.com/category/007-first-light,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,13,Grand Theft Auto VI (GTA),grand-theft-auto-vi,7905,Games,False,https://kick.com/category/grand-theft-auto-vi,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,14,World of Warcraft: Forever,world-of-warcraft-forever,6969,Games,False,https://kick.com/category/world-of-warcraft-forever,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,15,Counter-Strike 2,counter-strike-2,6368,Games,False,https://kick.com/category/counter-strike-2,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,16,Mafia: The Old Country,mafia-the-old-country,5732,Games,False,https://kick.com/category/mafia-the-old-country,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,17,League of Legends,league-of-legends,5363,Games,False,https://kick.com/category/league-of-legends,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,18,Dota 2,dota-2,4728,Games,False,https://kick.com/category/dota-2,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,19,Garena Free Fire,Garena-Free-Fire,4114,Games,False,https://kick.com/category/Garena-Free-Fire,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,20,Music Stations,music-stations,3234,Music,False,https://kick.com/category/music-stations,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,21,Teamfight Tactics,teamfight-tactics,3216,Games,False,https://kick.com/category/teamfight-tactics,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,22,Fortnite,fortnite,2774,Games,False,https://kick.com/category/fortnite,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,23,Elden Ring,elden-ring,2455,Games,False,https://kick.com/category/elden-ring,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,24,Red Dead Redemption II,red-dead-redemption-ii,2223,Games,False,https://kick.com/category/red-dead-redemption-ii,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,25,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,2110,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,26,Chat Roulette,chat-roulette,2079,Chat Roulette,True,https://kick.com/category/chat-roulette,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,27,Knight Online,knight-online,2013,Games,False,https://kick.com/category/knight-online,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,28,Minecraft,minecraft,1998,Games,False,https://kick.com/category/minecraft,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,29,Old School RuneScape,old-school-runescape,1829,Games,False,https://kick.com/category/old-school-runescape,flK18wRqZyhGVa6VM
+2026-11-18T08:30Z,30,Tibia,Tibia,1798,Games,False,https://kick.com/category/Tibia,flK18wRqZyhGVa6VM
+2026-11-18T09:30Z,1,Just Chatting,just-chatting,237657,IRL,False,https://kick.com/category/just-chatting,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,2,IRL,irl,161281,IRL,False,https://kick.com/category/irl,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,3,Slots & Casino,slots,42430,Gambling,True,https://kick.com/category/slots,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,37863,Games,False,https://kick.com/category/grand-theft-auto-v,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,5,Grand Theft Auto VI (GTA),grand-theft-auto-vi,28385,Games,False,https://kick.com/category/grand-theft-auto-vi,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,6,Just Sleeping,just-sleeping,23688,Alternative,False,https://kick.com/category/just-sleeping,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,7,Moon Sweepers,moon-sweepers,21834,Games,False,https://kick.com/category/moon-sweepers,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,8,PUBG Mobile,pubg-mobile,19526,Games,False,https://kick.com/category/pubg-mobile,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,9,Rob Run,rob-run,16772,Games,False,https://kick.com/category/rob-run,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,10,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,13274,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,11,Battlegrounds Mobile India,battlegrounds-mobile-india,10683,Games,False,https://kick.com/category/battlegrounds-mobile-india,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,12,007 First Light,007-first-light,9233,Games,False,https://kick.com/category/007-first-light,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,13,Counter-Strike 2,counter-strike-2,8887,Games,False,https://kick.com/category/counter-strike-2,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,14,World of Warcraft: Forever,world-of-warcraft-forever,7505,Games,False,https://kick.com/category/world-of-warcraft-forever,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,15,League of Legends,league-of-legends,6332,Games,False,https://kick.com/category/league-of-legends,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,16,VALORANT,valorant,4707,Games,False,https://kick.com/category/valorant,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,17,Teamfight Tactics,teamfight-tactics,4197,Games,False,https://kick.com/category/teamfight-tactics,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,18,Dota 2,dota-2,4146,Games,False,https://kick.com/category/dota-2,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,19,Mafia: The Old Country,mafia-the-old-country,3836,Games,False,https://kick.com/category/mafia-the-old-country,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,20,Red Dead Redemption II,red-dead-redemption-ii,3471,Games,False,https://kick.com/category/red-dead-redemption-ii,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,21,Music Stations,music-stations,3409,Music,False,https://kick.com/category/music-stations,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,22,Garena Free Fire,Garena-Free-Fire,3061,Games,False,https://kick.com/category/Garena-Free-Fire,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,23,Crypto & Trading,crypto-and-trading,3018,Alternative,False,https://kick.com/category/crypto-and-trading,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,24,Fortnite,fortnite,2956,Games,False,https://kick.com/category/fortnite,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,25,Tibia,Tibia,2581,Games,False,https://kick.com/category/Tibia,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,26,Old School RuneScape,old-school-runescape,2505,Games,False,https://kick.com/category/old-school-runescape,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,27,Minecraft,minecraft,2055,Games,False,https://kick.com/category/minecraft,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,28,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,1933,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,29,Knight Online,knight-online,1827,Games,False,https://kick.com/category/knight-online,eNtbj6hnO0tBawRmF
+2026-11-18T09:30Z,30,Elden Ring,elden-ring,1777,Games,False,https://kick.com/category/elden-ring,eNtbj6hnO0tBawRmF
+2026-11-18T10:30Z,1,Just Chatting,just-chatting,312664,IRL,False,https://kick.com/category/just-chatting,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,2,IRL,irl,139210,IRL,False,https://kick.com/category/irl,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,3,Grand Theft Auto VI (GTA),grand-theft-auto-vi,133505,Games,False,https://kick.com/category/grand-theft-auto-vi,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,4,Slots & Casino,slots,67305,Gambling,True,https://kick.com/category/slots,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,5,Grand Theft Auto V (GTA),grand-theft-auto-v,55234,Games,False,https://kick.com/category/grand-theft-auto-v,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,6,Moon Sweepers,moon-sweepers,21981,Games,False,https://kick.com/category/moon-sweepers,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,7,Just Sleeping,just-sleeping,21816,Alternative,False,https://kick.com/category/just-sleeping,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,8,PUBG Mobile,pubg-mobile,20289,Games,False,https://kick.com/category/pubg-mobile,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,9,Battlegrounds Mobile India,battlegrounds-mobile-india,15546,Games,False,https://kick.com/category/battlegrounds-mobile-india,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,10,Rob Run,rob-run,15152,Games,False,https://kick.com/category/rob-run,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,11,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,14660,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,12,Counter-Strike 2,counter-strike-2,12648,Games,False,https://kick.com/category/counter-strike-2,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,13,007 First Light,007-first-light,8824,Games,False,https://kick.com/category/007-first-light,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,14,League of Legends,league-of-legends,6198,Games,False,https://kick.com/category/league-of-legends,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,15,VALORANT,valorant,5589,Games,False,https://kick.com/category/valorant,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,16,World of Warcraft: Forever,world-of-warcraft-forever,5513,Games,False,https://kick.com/category/world-of-warcraft-forever,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,17,Dota 2,dota-2,5038,Games,False,https://kick.com/category/dota-2,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,18,Bogos Binted?,bogos-binted,4844,Games,False,https://kick.com/category/bogos-binted,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,19,Garena Free Fire,Garena-Free-Fire,4238,Games,False,https://kick.com/category/Garena-Free-Fire,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,20,Red Dead Redemption II,red-dead-redemption-ii,3949,Games,False,https://kick.com/category/red-dead-redemption-ii,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,21,Music Stations,music-stations,3807,Music,False,https://kick.com/category/music-stations,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,22,Tibia,Tibia,3402,Games,False,https://kick.com/category/Tibia,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,23,Old School RuneScape,old-school-runescape,3056,Games,False,https://kick.com/category/old-school-runescape,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,24,Fortnite,fortnite,2724,Games,False,https://kick.com/category/fortnite,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,25,Teamfight Tactics,teamfight-tactics,2478,Games,False,https://kick.com/category/teamfight-tactics,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,26,Teamfight Tactics,teamfight-tactics,2392,Games,False,https://kick.com/category/teamfight-tactics,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,27,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,2072,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,28,Garena Free Fire Max,garena-free-fire-max,1969,Games,False,https://kick.com/category/garena-free-fire-max,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,29,Crypto & Trading,crypto-and-trading,1568,Alternative,False,https://kick.com/category/crypto-and-trading,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,30,Knight Online,knight-online,1495,Games,False,https://kick.com/category/knight-online,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,31,Dark Souls: Remastered,dark-souls:-remastered,1338,Games,False,https://kick.com/category/dark-souls:-remastered,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,32,EA Sports UFC 6,ea-sports-ufc-6,1316,Games,False,https://kick.com/category/ea-sports-ufc-6,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,33,NBA 2K27,nba-2k27,1256,Games,False,https://kick.com/category/nba-2k27,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,34,Lineage II,lineage-ii,1236,Games,False,https://kick.com/category/lineage-ii,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,35,PUBG: Battlegrounds,pubg-battlegrounds,1009,Games,False,https://kick.com/category/pubg-battlegrounds,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,36,Minecraft,minecraft,949,Games,False,https://kick.com/category/minecraft,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,37,EA Sports FC 27,ea-sports-fc-27,945,Games,False,https://kick.com/category/ea-sports-fc-27,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,38,Special Events,special-events,923,IRL,False,https://kick.com/category/special-events,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,39,Euro Truck Simulator 2,euro-truck-simulator-2,795,Games,False,https://kick.com/category/euro-truck-simulator-2,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,40,Call of Duty: Warzone,call-of-duty-warzone,790,Games,False,https://kick.com/category/call-of-duty-warzone,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,41,Roblox,Roblox,718,Games,False,https://kick.com/category/Roblox,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,42,Poker,poker,701,Gambling,True,https://kick.com/category/poker,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,43,Aion 2,aion-2,623,Games,False,https://kick.com/category/aion-2,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,44,KICK Bounties,kick-bounties,606,Games,False,https://kick.com/category/kick-bounties,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,45,Rust,rust,554,Games,False,https://kick.com/category/rust,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,46,Animals & Nature,animals-nature,521,IRL,False,https://kick.com/category/animals-nature,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,47,ASMR,asmr,495,ASMR,False,https://kick.com/category/asmr,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,48,Grand Theft Auto IV,grand-theft-auto-iv,473,Games,False,https://kick.com/category/grand-theft-auto-iv,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,49,Chat Roulette,chat-roulette,464,Chat Roulette,True,https://kick.com/category/chat-roulette,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,50,The Last of Us Part II: Remastered,the-last-of-us-part-ii-remastered,439,Games,False,https://kick.com/category/the-last-of-us-part-ii-remastered,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,51,Chess,chess,423,Games,False,https://kick.com/category/chess,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,52,News,news,392,IRL,False,https://kick.com/category/news,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,53,NBA 2K17,nba-2k17,384,Games,False,https://kick.com/category/nba-2k17,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,54,Free Fire,free-fire,369,Games,False,https://kick.com/category/free-fire,23HQR5SYNRVe2VzI7
+2026-11-18T10:30Z,55,Music Production,music-production,356,Creative,False,https://kick.com/category/music-production,23HQR5SYNRVe2VzI7
+2026-11-18T11:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1161083,Games,False,https://kick.com/category/grand-theft-auto-vi,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,2,Just Chatting,just-chatting,194002,IRL,False,https://kick.com/category/just-chatting,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,3,IRL,irl,129285,IRL,False,https://kick.com/category/irl,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,42412,Games,False,https://kick.com/category/grand-theft-auto-v,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,5,Counter-Strike 2,counter-strike-2,40416,Games,False,https://kick.com/category/counter-strike-2,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,6,Slots & Casino,slots,34794,Gambling,True,https://kick.com/category/slots,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,7,PUBG Mobile,pubg-mobile,15833,Games,False,https://kick.com/category/pubg-mobile,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,8,Rob Run,rob-run,11768,Games,False,https://kick.com/category/rob-run,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,9,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,9567,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,10,007 First Light,007-first-light,9192,Games,False,https://kick.com/category/007-first-light,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,11,Teamfight Tactics,teamfight-tactics,8254,Games,False,https://kick.com/category/teamfight-tactics,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,12,Battlegrounds Mobile India,battlegrounds-mobile-india,6753,Games,False,https://kick.com/category/battlegrounds-mobile-india,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,13,Red Dead Redemption II,red-dead-redemption-ii,6349,Games,False,https://kick.com/category/red-dead-redemption-ii,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,14,VALORANT,valorant,5252,Games,False,https://kick.com/category/valorant,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,15,Dota 2,dota-2,4829,Games,False,https://kick.com/category/dota-2,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,16,Just Sleeping,just-sleeping,4617,Alternative,False,https://kick.com/category/just-sleeping,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,17,Garena Free Fire,Garena-Free-Fire,4587,Games,False,https://kick.com/category/Garena-Free-Fire,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,18,Music Stations,music-stations,4162,Music,False,https://kick.com/category/music-stations,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,19,Tibia,Tibia,3449,Games,False,https://kick.com/category/Tibia,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,20,Old School RuneScape,old-school-runescape,2766,Games,False,https://kick.com/category/old-school-runescape,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,21,League of Legends,league-of-legends,2613,Games,False,https://kick.com/category/league-of-legends,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,22,Crypto & Trading,crypto-and-trading,2554,Alternative,False,https://kick.com/category/crypto-and-trading,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,23,World of Warcraft: Forever,world-of-warcraft-forever,2037,Games,False,https://kick.com/category/world-of-warcraft-forever,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,24,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,2024,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,25,Dark Souls: Remastered,dark-souls:-remastered,1764,Games,False,https://kick.com/category/dark-souls:-remastered,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,26,Fortnite,fortnite,1513,Games,False,https://kick.com/category/fortnite,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,27,Knight Online,knight-online,1510,Games,False,https://kick.com/category/knight-online,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,28,NBA 2K27,nba-2k27,1269,Games,False,https://kick.com/category/nba-2k27,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,29,Lineage II,lineage-ii,1258,Games,False,https://kick.com/category/lineage-ii,wZ59GMaYjoxJM5Dja
+2026-11-18T11:30Z,30,The Adventures of Tintin: The Game,the-adventures-of-tintin-the-game,968,Games,False,https://kick.com/category/the-adventures-of-tintin-the-game,wZ59GMaYjoxJM5Dja
+2026-11-18T12:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1232212,Games,False,https://kick.com/category/grand-theft-auto-vi,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,2,IRL,irl,198818,IRL,False,https://kick.com/category/irl,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,3,Just Chatting,just-chatting,153117,IRL,False,https://kick.com/category/just-chatting,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,58286,Games,False,https://kick.com/category/grand-theft-auto-v,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,5,Counter-Strike 2,counter-strike-2,43242,Games,False,https://kick.com/category/counter-strike-2,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,6,Slots & Casino,slots,25505,Gambling,True,https://kick.com/category/slots,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,7,EA Sports FC 27,ea-sports-fc-27,14682,Games,False,https://kick.com/category/ea-sports-fc-27,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,8,Red Dead Redemption II,red-dead-redemption-ii,13139,Games,False,https://kick.com/category/red-dead-redemption-ii,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,9,Teamfight Tactics,teamfight-tactics,12676,Games,False,https://kick.com/category/teamfight-tactics,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,10,Rob Run,rob-run,9997,Games,False,https://kick.com/category/rob-run,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,11,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,8839,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,12,VALORANT,valorant,5986,Games,False,https://kick.com/category/valorant,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,13,Dota 2,dota-2,5788,Games,False,https://kick.com/category/dota-2,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,14,Music Stations,music-stations,5631,Music,False,https://kick.com/category/music-stations,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,15,Garena Free Fire,Garena-Free-Fire,4867,Games,False,https://kick.com/category/Garena-Free-Fire,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,16,Just Sleeping,just-sleeping,4489,Alternative,False,https://kick.com/category/just-sleeping,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,17,League of Legends,league-of-legends,4190,Games,False,https://kick.com/category/league-of-legends,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,18,Grand Theft Auto IV,grand-theft-auto-iv,4073,Games,False,https://kick.com/category/grand-theft-auto-iv,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,19,Tibia,Tibia,3699,Games,False,https://kick.com/category/Tibia,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,20,Marvel Rivals,marvel-rivals,3256,Games,False,https://kick.com/category/marvel-rivals,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,21,Minecraft,minecraft,2885,Games,False,https://kick.com/category/minecraft,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,22,Old School RuneScape,old-school-runescape,2757,Games,False,https://kick.com/category/old-school-runescape,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,23,Lineage II,lineage-ii,2442,Games,False,https://kick.com/category/lineage-ii,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,24,World of Warcraft: Forever,world-of-warcraft-forever,2244,Games,False,https://kick.com/category/world-of-warcraft-forever,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,25,NBA 2K27,nba-2k27,2174,Games,False,https://kick.com/category/nba-2k27,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,26,Knight Online,knight-online,1732,Games,False,https://kick.com/category/knight-online,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,27,Pachinko,pachinko,1555,Games,False,https://kick.com/category/pachinko,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,28,Fortnite,fortnite,1413,Games,False,https://kick.com/category/fortnite,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,29,PUBG Mobile,pubg-mobile,1170,Games,False,https://kick.com/category/pubg-mobile,2qWXxhFQdYxCH5V9i
+2026-11-18T12:30Z,30,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,1114,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,2qWXxhFQdYxCH5V9i
+2026-11-18T13:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1281782,Games,False,https://kick.com/category/grand-theft-auto-vi,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,2,IRL,irl,219178,IRL,False,https://kick.com/category/irl,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,3,Just Chatting,just-chatting,161239,IRL,False,https://kick.com/category/just-chatting,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,73652,Games,False,https://kick.com/category/grand-theft-auto-v,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,5,Counter-Strike 2,counter-strike-2,31675,Games,False,https://kick.com/category/counter-strike-2,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,6,Slots & Casino,slots,27086,Gambling,True,https://kick.com/category/slots,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,7,Fall Guys,fall-guys,21440,Games,False,https://kick.com/category/fall-guys,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,8,League of Legends,league-of-legends,18481,Games,False,https://kick.com/category/league-of-legends,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,9,EA Sports FC 27,ea-sports-fc-27,15818,Games,False,https://kick.com/category/ea-sports-fc-27,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,10,Red Dead Redemption II,red-dead-redemption-ii,15133,Games,False,https://kick.com/category/red-dead-redemption-ii,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,11,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,9586,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,12,Rob Run,rob-run,9189,Games,False,https://kick.com/category/rob-run,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,13,VALORANT,valorant,6583,Games,False,https://kick.com/category/valorant,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,14,Teamfight Tactics,teamfight-tactics,6369,Games,False,https://kick.com/category/teamfight-tactics,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,15,Garena Free Fire,Garena-Free-Fire,6063,Games,False,https://kick.com/category/Garena-Free-Fire,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,16,Music Stations,music-stations,5962,Music,False,https://kick.com/category/music-stations,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,17,Dota 2,dota-2,5574,Games,False,https://kick.com/category/dota-2,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,18,World of Warcraft: Forever,world-of-warcraft-forever,4842,Games,False,https://kick.com/category/world-of-warcraft-forever,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,19,Minecraft,minecraft,4411,Games,False,https://kick.com/category/minecraft,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,20,Just Sleeping,just-sleeping,4159,Alternative,False,https://kick.com/category/just-sleeping,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,21,Tibia,Tibia,3455,Games,False,https://kick.com/category/Tibia,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,22,Marvel Rivals,marvel-rivals,3349,Games,False,https://kick.com/category/marvel-rivals,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,23,Old School RuneScape,old-school-runescape,3342,Games,False,https://kick.com/category/old-school-runescape,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,24,Crypto & Trading,crypto-and-trading,3289,Alternative,False,https://kick.com/category/crypto-and-trading,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,25,Lineage II,lineage-ii,2793,Games,False,https://kick.com/category/lineage-ii,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,26,Fortnite,fortnite,2605,Games,False,https://kick.com/category/fortnite,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,27,NBA 2K27,nba-2k27,2200,Games,False,https://kick.com/category/nba-2k27,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,28,Pachinko,pachinko,1739,Games,False,https://kick.com/category/pachinko,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,29,KICK Bounties,kick-bounties,1676,Games,False,https://kick.com/category/kick-bounties,mvANLrKTbgpbBrejh
+2026-11-18T13:30Z,30,Knight Online,knight-online,1608,Games,False,https://kick.com/category/knight-online,mvANLrKTbgpbBrejh
+2026-11-18T14:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1278027,Games,False,https://kick.com/category/grand-theft-auto-vi,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,2,IRL,irl,295115,IRL,False,https://kick.com/category/irl,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,3,Just Chatting,just-chatting,106856,IRL,False,https://kick.com/category/just-chatting,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,104479,Games,False,https://kick.com/category/grand-theft-auto-v,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,5,Slots & Casino,slots,33254,Gambling,True,https://kick.com/category/slots,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,6,Counter-Strike 2,counter-strike-2,25382,Games,False,https://kick.com/category/counter-strike-2,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,7,Rocket League,rocket-league,22193,Games,False,https://kick.com/category/rocket-league,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,8,League of Legends,league-of-legends,20647,Games,False,https://kick.com/category/league-of-legends,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,9,Crypto & Trading,crypto-and-trading,16736,Alternative,False,https://kick.com/category/crypto-and-trading,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,10,Red Dead Redemption II,red-dead-redemption-ii,16608,Games,False,https://kick.com/category/red-dead-redemption-ii,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,11,Rob Run,rob-run,12892,Games,False,https://kick.com/category/rob-run,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,12,Fortnite,fortnite,11559,Games,False,https://kick.com/category/fortnite,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,13,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,9993,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,14,Chess,chess,7442,Games,False,https://kick.com/category/chess,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,15,World of Warcraft: Forever,world-of-warcraft-forever,6628,Games,False,https://kick.com/category/world-of-warcraft-forever,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,16,Garena Free Fire,Garena-Free-Fire,6225,Games,False,https://kick.com/category/Garena-Free-Fire,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,17,Dota 2,dota-2,5971,Games,False,https://kick.com/category/dota-2,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,18,Music Stations,music-stations,5968,Music,False,https://kick.com/category/music-stations,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,19,Teamfight Tactics,teamfight-tactics,5230,Games,False,https://kick.com/category/teamfight-tactics,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,20,VALORANT,valorant,5199,Games,False,https://kick.com/category/valorant,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,21,Tibia,Tibia,3476,Games,False,https://kick.com/category/Tibia,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,22,Minecraft,minecraft,3243,Games,False,https://kick.com/category/minecraft,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,23,Old School RuneScape,old-school-runescape,3071,Games,False,https://kick.com/category/old-school-runescape,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,24,Phantom Blade Zero,phantom-blade-zero,3033,Games,False,https://kick.com/category/phantom-blade-zero,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,25,Marvel Rivals,marvel-rivals,2889,Games,False,https://kick.com/category/marvel-rivals,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,26,Lineage II,lineage-ii,2870,Games,False,https://kick.com/category/lineage-ii,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,27,Just Sleeping,just-sleeping,2605,Alternative,False,https://kick.com/category/just-sleeping,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,28,EA Sports FC 27,ea-sports-fc-27,2396,Games,False,https://kick.com/category/ea-sports-fc-27,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,29,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,2313,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,nuqNMLQIpEBax28g7
+2026-11-18T14:30Z,30,NBA 2K27,nba-2k27,2185,Games,False,https://kick.com/category/nba-2k27,nuqNMLQIpEBax28g7
+2026-11-18T15:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1297355,Games,False,https://kick.com/category/grand-theft-auto-vi,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,2,IRL,irl,324066,IRL,False,https://kick.com/category/irl,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,3,Just Chatting,just-chatting,131333,IRL,False,https://kick.com/category/just-chatting,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,113131,Games,False,https://kick.com/category/grand-theft-auto-v,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,5,Slots & Casino,slots,57029,Gambling,True,https://kick.com/category/slots,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,6,Moon Sweepers,moon-sweepers,38057,Games,False,https://kick.com/category/moon-sweepers,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,7,Battlegrounds Mobile India,battlegrounds-mobile-india,23620,Games,False,https://kick.com/category/battlegrounds-mobile-india,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,8,Counter-Strike 2,counter-strike-2,22523,Games,False,https://kick.com/category/counter-strike-2,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,9,Garena Free Fire,Garena-Free-Fire,22094,Games,False,https://kick.com/category/Garena-Free-Fire,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,10,League of Legends,league-of-legends,19632,Games,False,https://kick.com/category/league-of-legends,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,11,Red Dead Redemption II,red-dead-redemption-ii,17820,Games,False,https://kick.com/category/red-dead-redemption-ii,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,12,Rob Run,rob-run,13346,Games,False,https://kick.com/category/rob-run,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,13,Among Us,among-us,9486,Games,False,https://kick.com/category/among-us,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,14,Chess,chess,9410,Games,False,https://kick.com/category/chess,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,15,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,9114,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,16,Dota 2,dota-2,8539,Games,False,https://kick.com/category/dota-2,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,17,VALORANT,valorant,7603,Games,False,https://kick.com/category/valorant,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,18,World of Warcraft: Forever,world-of-warcraft-forever,6611,Games,False,https://kick.com/category/world-of-warcraft-forever,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,19,Crypto & Trading,crypto-and-trading,6506,Alternative,False,https://kick.com/category/crypto-and-trading,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,20,Just Sleeping,just-sleeping,6272,Alternative,False,https://kick.com/category/just-sleeping,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,21,Teamfight Tactics,teamfight-tactics,5842,Games,False,https://kick.com/category/teamfight-tactics,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,22,Music Stations,music-stations,5089,Music,False,https://kick.com/category/music-stations,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,23,Old School RuneScape,old-school-runescape,3645,Games,False,https://kick.com/category/old-school-runescape,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,24,Tibia,Tibia,3506,Games,False,https://kick.com/category/Tibia,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,25,Minecraft,minecraft,3465,Games,False,https://kick.com/category/minecraft,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,26,Roblox,Roblox,3084,Games,False,https://kick.com/category/Roblox,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,27,Fortnite,fortnite,2910,Games,False,https://kick.com/category/fortnite,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,28,Marvel Rivals,marvel-rivals,2819,Games,False,https://kick.com/category/marvel-rivals,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,29,EA Sports FC 27,ea-sports-fc-27,2707,Games,False,https://kick.com/category/ea-sports-fc-27,tgKCWKMzBNYnaACo0
+2026-11-18T15:30Z,30,NBA 2K27,nba-2k27,2196,Games,False,https://kick.com/category/nba-2k27,tgKCWKMzBNYnaACo0
+2026-11-18T16:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1332622,Games,False,https://kick.com/category/grand-theft-auto-vi,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,2,IRL,irl,364277,IRL,False,https://kick.com/category/irl,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,3,Just Chatting,just-chatting,237842,IRL,False,https://kick.com/category/just-chatting,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,113046,Games,False,https://kick.com/category/grand-theft-auto-v,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,5,Slots & Casino,slots,59478,Gambling,True,https://kick.com/category/slots,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,6,Counter-Strike 2,counter-strike-2,24667,Games,False,https://kick.com/category/counter-strike-2,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,7,Garena Free Fire,Garena-Free-Fire,21749,Games,False,https://kick.com/category/Garena-Free-Fire,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,8,Red Dead Redemption II,red-dead-redemption-ii,18127,Games,False,https://kick.com/category/red-dead-redemption-ii,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,9,Teamfight Tactics,teamfight-tactics,14945,Games,False,https://kick.com/category/teamfight-tactics,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,10,Rob Run,rob-run,12019,Games,False,https://kick.com/category/rob-run,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,11,League of Legends,league-of-legends,11559,Games,False,https://kick.com/category/league-of-legends,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,12,Dota 2,dota-2,10355,Games,False,https://kick.com/category/dota-2,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,13,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,9301,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,14,VALORANT,valorant,9127,Games,False,https://kick.com/category/valorant,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,15,World of Warcraft: Forever,world-of-warcraft-forever,7968,Games,False,https://kick.com/category/world-of-warcraft-forever,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,16,Just Sleeping,just-sleeping,6683,Alternative,False,https://kick.com/category/just-sleeping,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,17,Crypto & Trading,crypto-and-trading,6049,Alternative,False,https://kick.com/category/crypto-and-trading,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,18,PUBG Mobile,pubg-mobile,5046,Games,False,https://kick.com/category/pubg-mobile,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,19,Minecraft,minecraft,4654,Games,False,https://kick.com/category/minecraft,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,20,PUBG: Battlegrounds,pubg-battlegrounds,4613,Games,False,https://kick.com/category/pubg-battlegrounds,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,21,Old School RuneScape,old-school-runescape,4276,Games,False,https://kick.com/category/old-school-runescape,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,22,Music Stations,music-stations,4267,Music,False,https://kick.com/category/music-stations,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,23,Chess,chess,4254,Games,False,https://kick.com/category/chess,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,24,Tibia,Tibia,4111,Games,False,https://kick.com/category/Tibia,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,25,Fortnite,fortnite,3387,Games,False,https://kick.com/category/fortnite,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,26,EA Sports FC 27,ea-sports-fc-27,3020,Games,False,https://kick.com/category/ea-sports-fc-27,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,27,Roblox,Roblox,2727,Games,False,https://kick.com/category/Roblox,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,28,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,2626,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,29,Knight Online,knight-online,2487,Games,False,https://kick.com/category/knight-online,DDoay5qUf34x9gB8p
+2026-11-18T16:30Z,30,Lineage II,lineage-ii,2375,Games,False,https://kick.com/category/lineage-ii,DDoay5qUf34x9gB8p
+2026-11-18T17:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1301157,Games,False,https://kick.com/category/grand-theft-auto-vi,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,2,IRL,irl,326931,IRL,False,https://kick.com/category/irl,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,3,Just Chatting,just-chatting,199958,IRL,False,https://kick.com/category/just-chatting,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,116228,Games,False,https://kick.com/category/grand-theft-auto-v,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,5,Slots & Casino,slots,60330,Gambling,True,https://kick.com/category/slots,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,6,Counter-Strike 2,counter-strike-2,36762,Games,False,https://kick.com/category/counter-strike-2,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,7,League of Legends,league-of-legends,19238,Games,False,https://kick.com/category/league-of-legends,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,8,Rob Run,rob-run,18501,Games,False,https://kick.com/category/rob-run,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,9,Minecraft,minecraft,17056,Games,False,https://kick.com/category/minecraft,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,10,Red Dead Redemption II,red-dead-redemption-ii,16177,Games,False,https://kick.com/category/red-dead-redemption-ii,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,11,Garena Free Fire,Garena-Free-Fire,11626,Games,False,https://kick.com/category/Garena-Free-Fire,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,12,Dota 2,dota-2,10858,Games,False,https://kick.com/category/dota-2,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,13,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,10720,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,14,VALORANT,valorant,10509,Games,False,https://kick.com/category/valorant,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,15,World of Warcraft: Forever,world-of-warcraft-forever,9877,Games,False,https://kick.com/category/world-of-warcraft-forever,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,16,Just Sleeping,just-sleeping,6970,Alternative,False,https://kick.com/category/just-sleeping,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,17,PUBG Mobile,pubg-mobile,6679,Games,False,https://kick.com/category/pubg-mobile,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,18,Lineage II,lineage-ii,6647,Games,False,https://kick.com/category/lineage-ii,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,19,Teamfight Tactics,teamfight-tactics,6047,Games,False,https://kick.com/category/teamfight-tactics,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,20,EA Sports FC 27,ea-sports-fc-27,5742,Games,False,https://kick.com/category/ea-sports-fc-27,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,21,Crypto & Trading,crypto-and-trading,5612,Alternative,False,https://kick.com/category/crypto-and-trading,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,22,Tibia,Tibia,4861,Games,False,https://kick.com/category/Tibia,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,23,Old School RuneScape,old-school-runescape,4499,Games,False,https://kick.com/category/old-school-runescape,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,24,Roblox,Roblox,4426,Games,False,https://kick.com/category/Roblox,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,25,Fortnite,fortnite,4252,Games,False,https://kick.com/category/fortnite,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,26,Music Stations,music-stations,3875,Music,False,https://kick.com/category/music-stations,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,27,Chess,chess,3653,Games,False,https://kick.com/category/chess,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,28,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,2968,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,29,Call of Duty: Warzone,call-of-duty-warzone,2728,Games,False,https://kick.com/category/call-of-duty-warzone,GIUu8WfU4sgqb1Ymh
+2026-11-18T17:30Z,30,Knight Online,knight-online,2597,Games,False,https://kick.com/category/knight-online,GIUu8WfU4sgqb1Ymh
+2026-11-18T18:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1210011,Games,False,https://kick.com/category/grand-theft-auto-vi,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,2,Just Chatting,just-chatting,242670,IRL,False,https://kick.com/category/just-chatting,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,3,IRL,irl,223056,IRL,False,https://kick.com/category/irl,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,211511,Games,False,https://kick.com/category/grand-theft-auto-v,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,5,Slots & Casino,slots,95214,Gambling,True,https://kick.com/category/slots,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,6,Counter-Strike 2,counter-strike-2,39203,Games,False,https://kick.com/category/counter-strike-2,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,7,Gangstar Mirage City,gangstar-mirage-city,30166,Games,False,https://kick.com/category/gangstar-mirage-city,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,8,League of Legends,league-of-legends,21143,Games,False,https://kick.com/category/league-of-legends,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,9,Minecraft,minecraft,18955,Games,False,https://kick.com/category/minecraft,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,10,Rob Run,rob-run,18861,Games,False,https://kick.com/category/rob-run,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,11,VALORANT,valorant,16250,Games,False,https://kick.com/category/valorant,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,12,Red Dead Redemption II,red-dead-redemption-ii,14567,Games,False,https://kick.com/category/red-dead-redemption-ii,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,13,Fortnite,fortnite,14430,Games,False,https://kick.com/category/fortnite,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,14,EA Sports FC 27,ea-sports-fc-27,11698,Games,False,https://kick.com/category/ea-sports-fc-27,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,15,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,11438,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,16,Dota 2,dota-2,10853,Games,False,https://kick.com/category/dota-2,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,17,World of Warcraft: Forever,world-of-warcraft-forever,10462,Games,False,https://kick.com/category/world-of-warcraft-forever,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,18,PUBG Mobile,pubg-mobile,9233,Games,False,https://kick.com/category/pubg-mobile,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,19,Garena Free Fire,Garena-Free-Fire,8848,Games,False,https://kick.com/category/Garena-Free-Fire,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,20,Just Sleeping,just-sleeping,7933,Alternative,False,https://kick.com/category/just-sleeping,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,21,Teamfight Tactics,teamfight-tactics,7319,Games,False,https://kick.com/category/teamfight-tactics,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,22,Lineage II,lineage-ii,7151,Games,False,https://kick.com/category/lineage-ii,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,23,Crypto & Trading,crypto-and-trading,4986,Alternative,False,https://kick.com/category/crypto-and-trading,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,24,Roblox,Roblox,4942,Games,False,https://kick.com/category/Roblox,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,25,Tibia,Tibia,4564,Games,False,https://kick.com/category/Tibia,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,26,Chat Roulette,chat-roulette,4351,Chat Roulette,True,https://kick.com/category/chat-roulette,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,27,Old School RuneScape,old-school-runescape,4283,Games,False,https://kick.com/category/old-school-runescape,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,28,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,4113,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,29,Music Stations,music-stations,3648,Music,False,https://kick.com/category/music-stations,taowAeJiKhjc5kQnu
+2026-11-18T18:30Z,30,Chess,chess,3647,Games,False,https://kick.com/category/chess,taowAeJiKhjc5kQnu
+2026-11-18T19:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1177347,Games,False,https://kick.com/category/grand-theft-auto-vi,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,2,Grand Theft Auto V (GTA),grand-theft-auto-v,358588,Games,False,https://kick.com/category/grand-theft-auto-v,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,3,IRL,irl,250249,IRL,False,https://kick.com/category/irl,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,4,Just Chatting,just-chatting,195908,IRL,False,https://kick.com/category/just-chatting,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,5,Slots & Casino,slots,82292,Gambling,True,https://kick.com/category/slots,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,6,Counter-Strike 2,counter-strike-2,38426,Games,False,https://kick.com/category/counter-strike-2,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,7,Gangstar Mirage City,gangstar-mirage-city,31335,Games,False,https://kick.com/category/gangstar-mirage-city,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,8,Rob Run,rob-run,26588,Games,False,https://kick.com/category/rob-run,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,9,League of Legends,league-of-legends,23553,Games,False,https://kick.com/category/league-of-legends,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,10,VALORANT,valorant,19624,Games,False,https://kick.com/category/valorant,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,11,Red Dead Redemption II,red-dead-redemption-ii,12781,Games,False,https://kick.com/category/red-dead-redemption-ii,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,12,Grand Theft Auto IV,grand-theft-auto-iv,11769,Games,False,https://kick.com/category/grand-theft-auto-iv,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,13,World of Warcraft: Forever,world-of-warcraft-forever,11305,Games,False,https://kick.com/category/world-of-warcraft-forever,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,14,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,10313,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,15,PUBG Mobile,pubg-mobile,10001,Games,False,https://kick.com/category/pubg-mobile,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,16,Dota 2,dota-2,9842,Games,False,https://kick.com/category/dota-2,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,17,The Gassal,the-gassal,9778,Games,False,https://kick.com/category/the-gassal,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,18,Garena Free Fire,Garena-Free-Fire,8990,Games,False,https://kick.com/category/Garena-Free-Fire,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,19,EA Sports FC 27,ea-sports-fc-27,8705,Games,False,https://kick.com/category/ea-sports-fc-27,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,20,Teamfight Tactics,teamfight-tactics,7350,Games,False,https://kick.com/category/teamfight-tactics,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,21,Minecraft,minecraft,6903,Games,False,https://kick.com/category/minecraft,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,22,Chess,chess,6661,Games,False,https://kick.com/category/chess,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,23,Roblox,Roblox,6239,Games,False,https://kick.com/category/Roblox,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,24,Lineage II,lineage-ii,6104,Games,False,https://kick.com/category/lineage-ii,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,25,Just Sleeping,just-sleeping,6101,Alternative,False,https://kick.com/category/just-sleeping,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,26,Crypto & Trading,crypto-and-trading,5528,Alternative,False,https://kick.com/category/crypto-and-trading,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,27,Chat Roulette,chat-roulette,4945,Chat Roulette,True,https://kick.com/category/chat-roulette,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,28,Sea of Thieves,Sea-of-Thieves,4824,Games,False,https://kick.com/category/Sea-of-Thieves,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,29,Fortnite,fortnite,4186,Games,False,https://kick.com/category/fortnite,PpPdaHATxS6ZvqrWG
+2026-11-18T19:30Z,30,Old School RuneScape,old-school-runescape,4134,Games,False,https://kick.com/category/old-school-runescape,PpPdaHATxS6ZvqrWG
+2026-11-18T20:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1144125,Games,False,https://kick.com/category/grand-theft-auto-vi,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,2,Grand Theft Auto V (GTA),grand-theft-auto-v,404240,Games,False,https://kick.com/category/grand-theft-auto-v,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,3,IRL,irl,271127,IRL,False,https://kick.com/category/irl,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,4,Just Chatting,just-chatting,204929,IRL,False,https://kick.com/category/just-chatting,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,5,Slots & Casino,slots,74027,Gambling,True,https://kick.com/category/slots,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,6,Counter-Strike 2,counter-strike-2,64319,Games,False,https://kick.com/category/counter-strike-2,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,7,League of Legends,league-of-legends,28671,Games,False,https://kick.com/category/league-of-legends,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,8,Rob Run,rob-run,25958,Games,False,https://kick.com/category/rob-run,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,9,VALORANT,valorant,14761,Games,False,https://kick.com/category/valorant,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,10,PUBG Mobile,pubg-mobile,12977,Games,False,https://kick.com/category/pubg-mobile,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,11,Dota 2,dota-2,12733,Games,False,https://kick.com/category/dota-2,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,12,EA Sports FC 27,ea-sports-fc-27,12152,Games,False,https://kick.com/category/ea-sports-fc-27,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,13,Roblox,Roblox,11649,Games,False,https://kick.com/category/Roblox,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,14,Red Dead Redemption II,red-dead-redemption-ii,11644,Games,False,https://kick.com/category/red-dead-redemption-ii,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,15,World of Warcraft: Forever,world-of-warcraft-forever,11482,Games,False,https://kick.com/category/world-of-warcraft-forever,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,16,Minecraft,minecraft,11451,Games,False,https://kick.com/category/minecraft,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,17,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,10293,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,18,Tavernia,tavernia,10152,Games,False,https://kick.com/category/tavernia,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,19,Garena Free Fire,Garena-Free-Fire,7406,Games,False,https://kick.com/category/Garena-Free-Fire,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,20,Teamfight Tactics,teamfight-tactics,5920,Games,False,https://kick.com/category/teamfight-tactics,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,21,Fortnite,fortnite,5149,Games,False,https://kick.com/category/fortnite,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,22,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,4442,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,23,Crypto & Trading,crypto-and-trading,4393,Alternative,False,https://kick.com/category/crypto-and-trading,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,24,Chess,chess,4131,Games,False,https://kick.com/category/chess,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,25,Lineage II,lineage-ii,4020,Games,False,https://kick.com/category/lineage-ii,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,26,Tibia,Tibia,3804,Games,False,https://kick.com/category/Tibia,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,27,Rust,rust,3747,Games,False,https://kick.com/category/rust,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,28,Music Stations,music-stations,3520,Music,False,https://kick.com/category/music-stations,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,29,Special Events,special-events,3377,IRL,False,https://kick.com/category/special-events,UTct1b9MuW60Hfrxc
+2026-11-18T20:30Z,30,Call of Duty: Warzone,call-of-duty-warzone,3345,Games,False,https://kick.com/category/call-of-duty-warzone,UTct1b9MuW60Hfrxc
+2026-11-18T21:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1208687,Games,False,https://kick.com/category/grand-theft-auto-vi,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,2,Grand Theft Auto V (GTA),grand-theft-auto-v,372962,Games,False,https://kick.com/category/grand-theft-auto-v,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,3,Just Chatting,just-chatting,185729,IRL,False,https://kick.com/category/just-chatting,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,4,IRL,irl,121246,IRL,False,https://kick.com/category/irl,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,5,Slots & Casino,slots,78533,Gambling,True,https://kick.com/category/slots,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,6,League of Legends,league-of-legends,31965,Games,False,https://kick.com/category/league-of-legends,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,7,Rob Run,rob-run,26797,Games,False,https://kick.com/category/rob-run,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,8,PUBG Mobile,pubg-mobile,24068,Games,False,https://kick.com/category/pubg-mobile,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,9,Counter-Strike 2,counter-strike-2,20724,Games,False,https://kick.com/category/counter-strike-2,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,10,Dota 2,dota-2,14998,Games,False,https://kick.com/category/dota-2,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,11,VALORANT,valorant,11732,Games,False,https://kick.com/category/valorant,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,12,Minecraft,minecraft,11112,Games,False,https://kick.com/category/minecraft,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,13,World of Warcraft: Forever,world-of-warcraft-forever,10383,Games,False,https://kick.com/category/world-of-warcraft-forever,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,14,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,9787,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,15,EA Sports FC 27,ea-sports-fc-27,9687,Games,False,https://kick.com/category/ea-sports-fc-27,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,16,Red Dead Redemption II,red-dead-redemption-ii,8855,Games,False,https://kick.com/category/red-dead-redemption-ii,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,17,Roblox,Roblox,8064,Games,False,https://kick.com/category/Roblox,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,18,Golf With Your Friends,golf-with-your-friends,8015,Games,False,https://kick.com/category/golf-with-your-friends,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,19,Garena Free Fire,Garena-Free-Fire,7698,Games,False,https://kick.com/category/Garena-Free-Fire,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,20,Fortnite,fortnite,7198,Games,False,https://kick.com/category/fortnite,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,21,Teamfight Tactics,teamfight-tactics,7021,Games,False,https://kick.com/category/teamfight-tactics,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,22,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,4957,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,23,Old School RuneScape,old-school-runescape,4730,Games,False,https://kick.com/category/old-school-runescape,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,24,Music Stations,music-stations,3478,Music,False,https://kick.com/category/music-stations,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,25,Just Sleeping,just-sleeping,3437,Alternative,False,https://kick.com/category/just-sleeping,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,26,Crypto & Trading,crypto-and-trading,3309,Alternative,False,https://kick.com/category/crypto-and-trading,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,27,Rust,rust,3302,Games,False,https://kick.com/category/rust,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,28,Tibia,Tibia,3251,Games,False,https://kick.com/category/Tibia,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,29,World of Warcraft,world-of-warcraft,3165,Games,False,https://kick.com/category/world-of-warcraft,PRSoxgKMN6JmsHoBV
+2026-11-18T21:30Z,30,Red Dead RP,red-dead-rp,3058,Games,False,https://kick.com/category/red-dead-rp,PRSoxgKMN6JmsHoBV
+2026-11-18T22:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1279892,Games,False,https://kick.com/category/grand-theft-auto-vi,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,2,Just Chatting,just-chatting,290276,IRL,False,https://kick.com/category/just-chatting,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,3,IRL,irl,145739,IRL,False,https://kick.com/category/irl,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,81116,Games,False,https://kick.com/category/grand-theft-auto-v,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,5,Slots & Casino,slots,65374,Gambling,True,https://kick.com/category/slots,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,6,League of Legends,league-of-legends,29309,Games,False,https://kick.com/category/league-of-legends,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,7,VALORANT,valorant,18102,Games,False,https://kick.com/category/valorant,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,8,Dota 2,dota-2,17932,Games,False,https://kick.com/category/dota-2,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,9,Counter-Strike 2,counter-strike-2,14669,Games,False,https://kick.com/category/counter-strike-2,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,10,World of Warcraft: Forever,world-of-warcraft-forever,14039,Games,False,https://kick.com/category/world-of-warcraft-forever,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,11,Minecraft,minecraft,12259,Games,False,https://kick.com/category/minecraft,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,12,Old School RuneScape,old-school-runescape,11837,Games,False,https://kick.com/category/old-school-runescape,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,13,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,10205,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,14,EA Sports FC 27,ea-sports-fc-27,7588,Games,False,https://kick.com/category/ea-sports-fc-27,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,15,eFootball,efootball,7160,Games,False,https://kick.com/category/efootball,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,16,Rob Run,rob-run,6781,Games,False,https://kick.com/category/rob-run,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,17,Teamfight Tactics,teamfight-tactics,6683,Games,False,https://kick.com/category/teamfight-tactics,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,18,Fortnite,fortnite,6602,Games,False,https://kick.com/category/fortnite,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,19,Rocket League,rocket-league,6573,Games,False,https://kick.com/category/rocket-league,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,20,Roblox,Roblox,6315,Games,False,https://kick.com/category/Roblox,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,21,Just Sleeping,just-sleeping,6127,Alternative,False,https://kick.com/category/just-sleeping,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,22,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,5768,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,23,Red Dead Redemption II,red-dead-redemption-ii,5247,Games,False,https://kick.com/category/red-dead-redemption-ii,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,24,PUBG Mobile,pubg-mobile,4978,Games,False,https://kick.com/category/pubg-mobile,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,25,Granny: Chapter Two,granny:-chapter-two,4784,Games,False,https://kick.com/category/granny:-chapter-two,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,26,Chat Roulette,chat-roulette,4362,Chat Roulette,True,https://kick.com/category/chat-roulette,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,27,World of Warcraft,world-of-warcraft,3783,Games,False,https://kick.com/category/world-of-warcraft,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,28,Rust,rust,3502,Games,False,https://kick.com/category/rust,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,29,Music Stations,music-stations,3293,Music,False,https://kick.com/category/music-stations,CISiiFXWyjFrrB2ns
+2026-11-18T22:30Z,30,Tibia,Tibia,3085,Games,False,https://kick.com/category/Tibia,CISiiFXWyjFrrB2ns
+2026-11-18T23:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1353198,Games,False,https://kick.com/category/grand-theft-auto-vi,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,2,Just Chatting,just-chatting,210714,IRL,False,https://kick.com/category/just-chatting,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,3,IRL,irl,130558,IRL,False,https://kick.com/category/irl,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,4,Hushed,hushed,80058,Games,False,https://kick.com/category/hushed,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,5,Slots & Casino,slots,65267,Gambling,True,https://kick.com/category/slots,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,6,Grand Theft Auto V (GTA),grand-theft-auto-v,54967,Games,False,https://kick.com/category/grand-theft-auto-v,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,7,EA Sports FC 27,ea-sports-fc-27,22552,Games,False,https://kick.com/category/ea-sports-fc-27,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,8,League of Legends,league-of-legends,20891,Games,False,https://kick.com/category/league-of-legends,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,9,Dota 2,dota-2,15633,Games,False,https://kick.com/category/dota-2,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,10,Old School RuneScape,old-school-runescape,13587,Games,False,https://kick.com/category/old-school-runescape,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,11,World of Warcraft: Forever,world-of-warcraft-forever,13079,Games,False,https://kick.com/category/world-of-warcraft-forever,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,12,Counter-Strike 2,counter-strike-2,11683,Games,False,https://kick.com/category/counter-strike-2,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,13,PUBG Mobile,pubg-mobile,11530,Games,False,https://kick.com/category/pubg-mobile,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,14,Minecraft,minecraft,10471,Games,False,https://kick.com/category/minecraft,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,15,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,8175,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,16,Fortnite,fortnite,8124,Games,False,https://kick.com/category/fortnite,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,17,Rob Run,rob-run,6516,Games,False,https://kick.com/category/rob-run,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,18,Just Sleeping,just-sleeping,6100,Alternative,False,https://kick.com/category/just-sleeping,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,19,VALORANT,valorant,5183,Games,False,https://kick.com/category/valorant,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,20,eFootball,efootball,5026,Games,False,https://kick.com/category/efootball,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,21,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,4952,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,22,Teamfight Tactics,teamfight-tactics,4917,Games,False,https://kick.com/category/teamfight-tactics,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,23,World of Warcraft,world-of-warcraft,4110,Games,False,https://kick.com/category/world-of-warcraft,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,24,Roblox,Roblox,3629,Games,False,https://kick.com/category/Roblox,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,25,Sports,sports,2703,IRL,False,https://kick.com/category/sports,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,26,Games + Demos,games-+-demos,2681,Games,False,https://kick.com/category/games-+-demos,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,27,Music Stations,music-stations,2673,Music,False,https://kick.com/category/music-stations,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,28,Overwatch,overwatch,2656,Games,False,https://kick.com/category/overwatch,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,29,Call of Duty: Warzone,call-of-duty-warzone,2633,Games,False,https://kick.com/category/call-of-duty-warzone,mqy6ld8r87jYrg2gm
+2026-11-18T23:30Z,30,ASMR,asmr,2623,ASMR,False,https://kick.com/category/asmr,mqy6ld8r87jYrg2gm
+2026-11-19T00:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1182961,Games,False,https://kick.com/category/grand-theft-auto-vi,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,2,Just Chatting,just-chatting,329697,IRL,False,https://kick.com/category/just-chatting,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,3,IRL,irl,110579,IRL,False,https://kick.com/category/irl,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,4,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,56781,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,5,Slots & Casino,slots,49839,Gambling,True,https://kick.com/category/slots,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,6,Grand Theft Auto V (GTA),grand-theft-auto-v,49381,Games,False,https://kick.com/category/grand-theft-auto-v,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,7,League of Legends,league-of-legends,22297,Games,False,https://kick.com/category/league-of-legends,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,8,EA Sports FC 27,ea-sports-fc-27,20942,Games,False,https://kick.com/category/ea-sports-fc-27,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,9,Dota 2,dota-2,17294,Games,False,https://kick.com/category/dota-2,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,10,Old School RuneScape,old-school-runescape,14547,Games,False,https://kick.com/category/old-school-runescape,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,11,Roblox,Roblox,14229,Games,False,https://kick.com/category/Roblox,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,12,Knight Online,knight-online,14142,Games,False,https://kick.com/category/knight-online,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,13,PUBG Mobile,pubg-mobile,12741,Games,False,https://kick.com/category/pubg-mobile,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,14,Counter-Strike 2,counter-strike-2,12142,Games,False,https://kick.com/category/counter-strike-2,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,15,Minecraft,minecraft,11324,Games,False,https://kick.com/category/minecraft,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,16,World of Warcraft: Forever,world-of-warcraft-forever,10244,Games,False,https://kick.com/category/world-of-warcraft-forever,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,17,Garena Free Fire,Garena-Free-Fire,7139,Games,False,https://kick.com/category/Garena-Free-Fire,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,18,Just Sleeping,just-sleeping,6127,Alternative,False,https://kick.com/category/just-sleeping,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,19,Rob Run,rob-run,5859,Games,False,https://kick.com/category/rob-run,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,20,VALORANT,valorant,5652,Games,False,https://kick.com/category/valorant,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,21,Fortnite,fortnite,5272,Games,False,https://kick.com/category/fortnite,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,22,Path of Exile,path-of-exile,5191,Games,False,https://kick.com/category/path-of-exile,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,23,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,5076,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,24,Teamfight Tactics,teamfight-tactics,4847,Games,False,https://kick.com/category/teamfight-tactics,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,25,Special Events,special-events,4650,IRL,False,https://kick.com/category/special-events,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,26,World of Warcraft,world-of-warcraft,4347,Games,False,https://kick.com/category/world-of-warcraft,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,27,Sports,sports,4016,IRL,False,https://kick.com/category/sports,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,28,Call of Duty: Warzone,call-of-duty-warzone,3023,Games,False,https://kick.com/category/call-of-duty-warzone,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,29,Blood Strike,blood-strike,2973,Games,False,https://kick.com/category/blood-strike,5Ul7Zzdx6vf5rAmd2
+2026-11-19T00:30Z,30,Rosalie,rosalie,2669,Games,False,https://kick.com/category/rosalie,5Ul7Zzdx6vf5rAmd2
+2026-11-19T01:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,908597,Games,True,https://kick.com/category/grand-theft-auto-vi,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,2,Just Chatting,just-chatting,533668,IRL,False,https://kick.com/category/just-chatting,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,3,IRL,irl,117452,IRL,False,https://kick.com/category/irl,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,4,Slots & Casino,slots,52309,Gambling,True,https://kick.com/category/slots,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,5,Grand Theft Auto V (GTA),grand-theft-auto-v,47147,Games,False,https://kick.com/category/grand-theft-auto-v,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,6,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,45671,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,7,Minecraft,minecraft,23890,Games,False,https://kick.com/category/minecraft,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,8,League of Legends,league-of-legends,17918,Games,False,https://kick.com/category/league-of-legends,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,9,EA Sports FC 27,ea-sports-fc-27,17753,Games,False,https://kick.com/category/ea-sports-fc-27,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,10,Old School RuneScape,old-school-runescape,15232,Games,False,https://kick.com/category/old-school-runescape,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,11,Dota 2,dota-2,14377,Games,False,https://kick.com/category/dota-2,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,12,Rob Run,rob-run,13167,Games,False,https://kick.com/category/rob-run,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,13,PUBG Mobile,pubg-mobile,12147,Games,False,https://kick.com/category/pubg-mobile,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,14,Counter-Strike 2,counter-strike-2,11735,Games,False,https://kick.com/category/counter-strike-2,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,15,World of Warcraft: Forever,world-of-warcraft-forever,10189,Games,False,https://kick.com/category/world-of-warcraft-forever,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,16,Knight Online,knight-online,9544,Games,False,https://kick.com/category/knight-online,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,17,Just Sleeping,just-sleeping,8232,Alternative,False,https://kick.com/category/just-sleeping,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,18,Roblox,Roblox,7567,Games,False,https://kick.com/category/Roblox,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,19,Garena Free Fire,Garena-Free-Fire,6890,Games,False,https://kick.com/category/Garena-Free-Fire,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,20,Special Events,special-events,5967,IRL,False,https://kick.com/category/special-events,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,21,VALORANT,valorant,5253,Games,False,https://kick.com/category/valorant,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,22,Games + Demos,games-+-demos,5202,Games,False,https://kick.com/category/games-+-demos,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,23,Sports,sports,4869,IRL,False,https://kick.com/category/sports,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,24,Path of Exile,path-of-exile,4854,Games,False,https://kick.com/category/path-of-exile,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,25,World of Warcraft,world-of-warcraft,4683,Games,False,https://kick.com/category/world-of-warcraft,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,26,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,4662,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,27,Teamfight Tactics,teamfight-tactics,4543,Games,False,https://kick.com/category/teamfight-tactics,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,28,Fortnite,fortnite,4386,Games,False,https://kick.com/category/fortnite,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,29,Blood Strike,blood-strike,3044,Games,False,https://kick.com/category/blood-strike,LGLVjMopPG2hRm3Ac
+2026-11-19T01:30Z,30,Sunset Summit,sunset-summit,3035,Games,False,https://kick.com/category/sunset-summit,LGLVjMopPG2hRm3Ac
+2026-11-19T02:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,775175,Games,True,https://kick.com/category/grand-theft-auto-vi,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,2,Just Chatting,just-chatting,492660,IRL,False,https://kick.com/category/just-chatting,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,3,IRL,irl,169458,IRL,False,https://kick.com/category/irl,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,66386,Games,False,https://kick.com/category/grand-theft-auto-v,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,5,Slots & Casino,slots,55226,Gambling,True,https://kick.com/category/slots,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,6,Counter-Strike 2,counter-strike-2,35773,Games,False,https://kick.com/category/counter-strike-2,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,7,Minecraft,minecraft,25079,Games,False,https://kick.com/category/minecraft,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,8,Rob Run,rob-run,18220,Games,False,https://kick.com/category/rob-run,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,9,League of Legends,league-of-legends,17781,Games,False,https://kick.com/category/league-of-legends,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,10,Dota 2,dota-2,15814,Games,False,https://kick.com/category/dota-2,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,11,Old School RuneScape,old-school-runescape,15802,Games,False,https://kick.com/category/old-school-runescape,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,12,Just Sleeping,just-sleeping,13873,Alternative,False,https://kick.com/category/just-sleeping,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,13,Dead By Daylight,dead-by-daylight,10305,Games,False,https://kick.com/category/dead-by-daylight,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,14,World of Warcraft: Forever,world-of-warcraft-forever,10007,Games,False,https://kick.com/category/world-of-warcraft-forever,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,15,Knight Online,knight-online,8657,Games,False,https://kick.com/category/knight-online,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,16,Roblox,Roblox,7767,Games,False,https://kick.com/category/Roblox,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,17,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,7660,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,18,VALORANT,valorant,7239,Games,False,https://kick.com/category/valorant,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,19,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,5823,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,20,Games + Demos,games-+-demos,5756,Games,False,https://kick.com/category/games-+-demos,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,21,Sports,sports,4849,IRL,False,https://kick.com/category/sports,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,22,Fortnite,fortnite,4736,Games,False,https://kick.com/category/fortnite,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,23,World of Warcraft,world-of-warcraft,4705,Games,False,https://kick.com/category/world-of-warcraft,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,24,Teamfight Tactics,teamfight-tactics,3745,Games,False,https://kick.com/category/teamfight-tactics,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,25,Forza Horizon 5,forza-horizon-5,3534,Games,False,https://kick.com/category/forza-horizon-5,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,26,Path of Exile,path-of-exile,3517,Games,False,https://kick.com/category/path-of-exile,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,27,Call of Duty: Warzone,call-of-duty-warzone,3131,Games,False,https://kick.com/category/call-of-duty-warzone,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,28,Party Animals,party-animals,3109,Games,False,https://kick.com/category/party-animals,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,29,PUBG Mobile,pubg-mobile,3087,Games,False,https://kick.com/category/pubg-mobile,sky1W9PVGry0Z9fcg
+2026-11-19T02:30Z,30,Crypto & Trading,crypto-and-trading,3081,Alternative,False,https://kick.com/category/crypto-and-trading,sky1W9PVGry0Z9fcg
+2026-11-19T03:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1234238,Games,True,https://kick.com/category/grand-theft-auto-vi,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,2,Just Chatting,just-chatting,200529,IRL,False,https://kick.com/category/just-chatting,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,3,IRL,irl,195151,IRL,False,https://kick.com/category/irl,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,73027,Games,False,https://kick.com/category/grand-theft-auto-v,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,5,Slots & Casino,slots,44207,Gambling,True,https://kick.com/category/slots,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,6,Just Sleeping,just-sleeping,30293,Alternative,False,https://kick.com/category/just-sleeping,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,7,Phasmophobia,Phasmophobia,23126,Games,False,https://kick.com/category/Phasmophobia,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,8,Roblox,Roblox,18005,Games,False,https://kick.com/category/Roblox,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,9,Rob Run,rob-run,17244,Games,False,https://kick.com/category/rob-run,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,10,Dota 2,dota-2,15788,Games,False,https://kick.com/category/dota-2,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,11,Old School RuneScape,old-school-runescape,14330,Games,False,https://kick.com/category/old-school-runescape,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,12,World of Warcraft: Forever,world-of-warcraft-forever,8776,Games,False,https://kick.com/category/world-of-warcraft-forever,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,13,League of Legends,league-of-legends,8398,Games,False,https://kick.com/category/league-of-legends,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,14,EA Sports FC 27,ea-sports-fc-27,8006,Games,False,https://kick.com/category/ea-sports-fc-27,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,15,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,7677,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,16,Knight Online,knight-online,7263,Games,False,https://kick.com/category/knight-online,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,17,Counter-Strike 2,counter-strike-2,6973,Games,False,https://kick.com/category/counter-strike-2,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,18,Minecraft,minecraft,6773,Games,False,https://kick.com/category/minecraft,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,19,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,6344,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,20,Fortnite,fortnite,5100,Games,False,https://kick.com/category/fortnite,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,21,World of Warcraft,world-of-warcraft,4644,Games,False,https://kick.com/category/world-of-warcraft,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,22,Path of Exile,path-of-exile,4289,Games,False,https://kick.com/category/path-of-exile,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,23,Games + Demos,games-+-demos,3962,Games,False,https://kick.com/category/games-+-demos,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,24,Overwatch,overwatch,3149,Games,False,https://kick.com/category/overwatch,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,25,Chat Roulette,chat-roulette,2944,Chat Roulette,True,https://kick.com/category/chat-roulette,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,26,Sports,sports,2712,IRL,False,https://kick.com/category/sports,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,27,Music Stations,music-stations,2649,Music,False,https://kick.com/category/music-stations,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,28,A Gentlemen's Dispute,a-gentlemens-dispute,2646,Games,False,https://kick.com/category/a-gentlemens-dispute,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,29,Call of Duty: Warzone,call-of-duty-warzone,2541,Games,False,https://kick.com/category/call-of-duty-warzone,Cu9xLwcHYYabf8scC
+2026-11-19T03:30Z,30,Special Events,special-events,2493,IRL,False,https://kick.com/category/special-events,Cu9xLwcHYYabf8scC
+2026-11-19T04:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1078291,Games,True,https://kick.com/category/grand-theft-auto-vi,3bRzAPYauP54rds16
+2026-11-19T04:30Z,2,Just Chatting,just-chatting,264742,IRL,False,https://kick.com/category/just-chatting,3bRzAPYauP54rds16
+2026-11-19T04:30Z,3,IRL,irl,228599,IRL,False,https://kick.com/category/irl,3bRzAPYauP54rds16
+2026-11-19T04:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,61176,Games,False,https://kick.com/category/grand-theft-auto-v,3bRzAPYauP54rds16
+2026-11-19T04:30Z,5,Slots & Casino,slots,50723,Gambling,True,https://kick.com/category/slots,3bRzAPYauP54rds16
+2026-11-19T04:30Z,6,Just Sleeping,just-sleeping,40447,Alternative,False,https://kick.com/category/just-sleeping,3bRzAPYauP54rds16
+2026-11-19T04:30Z,7,Car For Sale Simulator 2023,car-for-sale-simulator-2023,23990,Games,False,https://kick.com/category/car-for-sale-simulator-2023,3bRzAPYauP54rds16
+2026-11-19T04:30Z,8,Rob Run,rob-run,17726,Games,False,https://kick.com/category/rob-run,3bRzAPYauP54rds16
+2026-11-19T04:30Z,9,Dota 2,dota-2,14891,Games,False,https://kick.com/category/dota-2,3bRzAPYauP54rds16
+2026-11-19T04:30Z,10,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,8606,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,3bRzAPYauP54rds16
+2026-11-19T04:30Z,11,Fortnite,fortnite,7565,Games,False,https://kick.com/category/fortnite,3bRzAPYauP54rds16
+2026-11-19T04:30Z,12,World of Warcraft: Forever,world-of-warcraft-forever,6295,Games,False,https://kick.com/category/world-of-warcraft-forever,3bRzAPYauP54rds16
+2026-11-19T04:30Z,13,World of Warcraft,world-of-warcraft,5889,Games,False,https://kick.com/category/world-of-warcraft,3bRzAPYauP54rds16
+2026-11-19T04:30Z,14,Path of Exile,path-of-exile,5554,Games,False,https://kick.com/category/path-of-exile,3bRzAPYauP54rds16
+2026-11-19T04:30Z,15,Counter-Strike 2,counter-strike-2,5401,Games,False,https://kick.com/category/counter-strike-2,3bRzAPYauP54rds16
+2026-11-19T04:30Z,16,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,5355,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,3bRzAPYauP54rds16
+2026-11-19T04:30Z,17,Knight Online,knight-online,5307,Games,False,https://kick.com/category/knight-online,3bRzAPYauP54rds16
+2026-11-19T04:30Z,18,League of Legends,league-of-legends,5263,Games,False,https://kick.com/category/league-of-legends,3bRzAPYauP54rds16
+2026-11-19T04:30Z,19,Old School RuneScape,old-school-runescape,4798,Games,False,https://kick.com/category/old-school-runescape,3bRzAPYauP54rds16
+2026-11-19T04:30Z,20,Special Events,special-events,4721,IRL,False,https://kick.com/category/special-events,3bRzAPYauP54rds16
+2026-11-19T04:30Z,21,Roblox,Roblox,3805,Games,False,https://kick.com/category/Roblox,3bRzAPYauP54rds16
+2026-11-19T04:30Z,22,Chat Roulette,chat-roulette,2913,Chat Roulette,True,https://kick.com/category/chat-roulette,3bRzAPYauP54rds16
+2026-11-19T04:30Z,23,Overwatch,overwatch,2785,Games,False,https://kick.com/category/overwatch,3bRzAPYauP54rds16
+2026-11-19T04:30Z,24,PUBG Mobile,pubg-mobile,2723,Games,False,https://kick.com/category/pubg-mobile,3bRzAPYauP54rds16
+2026-11-19T04:30Z,25,The Legend of Zelda: Ocarina of Time,the-legend-of-zelda-ocarina-of-time-1,2610,Games,False,https://kick.com/category/the-legend-of-zelda-ocarina-of-time-1,3bRzAPYauP54rds16
+2026-11-19T04:30Z,26,Music Stations,music-stations,2452,Music,False,https://kick.com/category/music-stations,3bRzAPYauP54rds16
+2026-11-19T04:30Z,27,VALORANT,valorant,2242,Games,False,https://kick.com/category/valorant,3bRzAPYauP54rds16
+2026-11-19T04:30Z,28,Red Dead Redemption II,red-dead-redemption-ii,2063,Games,False,https://kick.com/category/red-dead-redemption-ii,3bRzAPYauP54rds16
+2026-11-19T04:30Z,29,EA Sports FC 27,ea-sports-fc-27,2013,Games,False,https://kick.com/category/ea-sports-fc-27,3bRzAPYauP54rds16
+2026-11-19T04:30Z,30,Call of Duty: Warzone,call-of-duty-warzone,1952,Games,False,https://kick.com/category/call-of-duty-warzone,3bRzAPYauP54rds16
+2026-11-19T05:30Z,1,Grand Theft Auto VI (GTA),grand-theft-auto-vi,1270757,Games,True,https://kick.com/category/grand-theft-auto-vi,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,2,Just Chatting,just-chatting,106839,IRL,False,https://kick.com/category/just-chatting,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,3,IRL,irl,72612,IRL,False,https://kick.com/category/irl,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,4,Grand Theft Auto V (GTA),grand-theft-auto-v,45140,Games,False,https://kick.com/category/grand-theft-auto-v,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,5,Just Sleeping,just-sleeping,37147,Alternative,False,https://kick.com/category/just-sleeping,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,6,Slots & Casino,slots,31275,Gambling,True,https://kick.com/category/slots,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,7,Car For Sale Simulator 2023,car-for-sale-simulator-2023,21707,Games,False,https://kick.com/category/car-for-sale-simulator-2023,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,8,Rob Run,rob-run,13003,Games,False,https://kick.com/category/rob-run,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,9,Dota 2,dota-2,11812,Games,False,https://kick.com/category/dota-2,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,10,Call of Duty: Modern Warfare 4,call-of-duty-modern-warfare-4,6631,Games,False,https://kick.com/category/call-of-duty-modern-warfare-4,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,11,Path of Exile,path-of-exile,6101,Games,False,https://kick.com/category/path-of-exile,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,12,World of Warcraft,world-of-warcraft,5873,Games,False,https://kick.com/category/world-of-warcraft,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,13,Special Events,special-events,4931,IRL,False,https://kick.com/category/special-events,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,14,League of Legends,league-of-legends,4843,Games,False,https://kick.com/category/league-of-legends,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,15,Knight Online,knight-online,4791,Games,False,https://kick.com/category/knight-online,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,16,Counter-Strike 2,counter-strike-2,4466,Games,False,https://kick.com/category/counter-strike-2,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,17,"Pools, Hot Tubs & Bikinis",pools-hot-tubs-bikinis,4287,"Pools, Hot Tubs & Bikinis",True,https://kick.com/category/pools-hot-tubs-bikinis,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,18,Roblox,Roblox,3837,Games,False,https://kick.com/category/Roblox,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,19,Old School RuneScape,old-school-runescape,3466,Games,False,https://kick.com/category/old-school-runescape,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,20,World of Warcraft: Forever,world-of-warcraft-forever,2778,Games,False,https://kick.com/category/world-of-warcraft-forever,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,21,Crypto & Trading,crypto-and-trading,2627,Alternative,False,https://kick.com/category/crypto-and-trading,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,22,Music Stations,music-stations,2397,Music,False,https://kick.com/category/music-stations,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,23,Fortnite,fortnite,2180,Games,False,https://kick.com/category/fortnite,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,24,The Choicer Voicer,the-choicer-voicer,2111,Games,False,https://kick.com/category/the-choicer-voicer,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,25,Garena Free Fire,Garena-Free-Fire,1989,Games,False,https://kick.com/category/Garena-Free-Fire,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,26,Red Dead Redemption II,red-dead-redemption-ii,1887,Games,False,https://kick.com/category/red-dead-redemption-ii,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,27,Dark Souls: Remastered,dark-souls:-remastered,1762,Games,False,https://kick.com/category/dark-souls:-remastered,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,28,Minecraft,minecraft,1597,Games,False,https://kick.com/category/minecraft,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,29,Poker,poker,1488,Gambling,True,https://kick.com/category/poker,VZBJT5GSeFKoI3gDy
+2026-11-19T05:30Z,30,PUBG Mobile,pubg-mobile,1439,Games,False,https://kick.com/category/pubg-mobile,VZBJT5GSeFKoI3gDy
