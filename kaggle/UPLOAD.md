@@ -42,7 +42,12 @@ kaggle datasets version -p . -m "Adds snapshots through <date>"
 The description already links to the actor and the GitHub repo, which is the point of
 publishing here. Two things worth doing on the day:
 
-- **Add a starter notebook.** A dataset with a notebook attached gets recommended far more
-  often than a bare dataset. Ten lines that load `gta6_viewers_hourly.csv` and plot the curve
-  is enough.
+- **Add the starter notebook.** A dataset with a notebook attached gets recommended far more
+  often than a bare one. It is already written:
+  `../notebooks/gta6-launch-curve.ipynb`
+
+  On the published dataset page click **New Notebook**, then **File > Import Notebook** and
+  upload that file. The dataset is attached automatically, and the notebook finds its CSVs by
+  name, so it runs without edits. Run all cells, confirm the four charts render, then **Save
+  Version > Save & Run All (Commit)** and make it public.
 - **Keep the title's search terms.** "GTA 6", "Kick" and "viewers" are what people will type.

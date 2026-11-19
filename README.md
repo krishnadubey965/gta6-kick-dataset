@@ -118,6 +118,19 @@ ranked by live viewers.
 
 ---
 
+## Starter notebook
+
+[`notebooks/gta6-launch-curve.ipynb`](notebooks/gta6-launch-curve.ipynb) loads all three tables and
+answers four questions: what the curve looked like, the hour GTA 6 overtook Just Chatting, which
+language the launch was actually in, and whether a few huge streamers or the long tail held the
+1.35 million. It finds its input files by name rather than by a hard-coded path, so it runs
+unchanged on Kaggle or locally.
+
+The short answer to the fourth question: at peak, the single biggest stream held **6.5%** of the
+audience and the top ten held **31.5%**. No streamer carried this — 856 of them did.
+
+---
+
 ## Honest notes on the data
 
 Things a careful analyst should know before publishing a number from this.
