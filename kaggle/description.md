@@ -1,13 +1,16 @@
 # GTA 6 Launch Night on Kick.com — Hourly Viewership
 
-> ### Collected with the Kick Scraper on Apify
-> **https://apify.com/bhole_krishna/kick-scraper**
->
-> Every row here came from that actor. Kick keeps no history, so the hours after this dataset
-> ends can only be obtained by collecting them live — point the actor at any category, put it on
-> an hourly schedule, and you are building the same record for whatever launches next. It also
-> returns past broadcasts with working VOD links, most-viewed clips, channel profiles, and all
-> 18,000+ Kick categories ranked by live viewers.
+### Collected with the Kick Scraper on Apify
+
+**[apify.com/bhole_krishna/kick-scraper](https://apify.com/bhole_krishna/kick-scraper)**
+
+Every row here came from that actor. Kick keeps no history, so the hours after this dataset ends
+can only be obtained by collecting them live — point the actor at any category, put it on an
+hourly schedule, and you are building the same record for whatever launches next. It also returns
+past broadcasts with working VOD links, most-viewed clips, channel profiles, and all 18,000+ Kick
+categories ranked by live viewers.
+
+---
 
 ## Why this dataset exists
 
@@ -116,8 +119,8 @@ totals describe how streamers label themselves.
 
 CC BY 4.0. Use it commercially, publish from it, build on it; just credit the source.
 
-> GTA 6 Launch Night on Kick.com — Hourly Viewership (2026). Collected from Kick.com with the
-> Kick Scraper on Apify. https://apify.com/bhole_krishna/kick-scraper
+*GTA 6 Launch Night on Kick.com — Hourly Viewership (2026). Collected from Kick.com with the Kick
+Scraper on Apify. https://apify.com/bhole_krishna/kick-scraper*
 
 Not affiliated with, authorised by or endorsed by Kick.com, Rockstar Games or Take-Two
 Interactive.
