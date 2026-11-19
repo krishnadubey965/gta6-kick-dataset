@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 kaggle/*.csv
+kaggle/upload/
+kaggle/kernel/
+kaggle/kout/

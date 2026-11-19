@@ -118,6 +118,15 @@ ranked by live viewers.
 
 ---
 
+## On Kaggle
+
+The same three tables are published as a Kaggle dataset, with the notebook below attached and run:
+
+- **Dataset:** <https://www.kaggle.com/datasets/krishnadubeyyy/gta-6-launch-night-kick-hourly-viewership>
+- **Notebook:** <https://www.kaggle.com/code/krishnadubeyyy/gta-6-launch-night-on-kick-reading-the-curve>
+
+---
+
 ## Starter notebook
 
 [`notebooks/gta6-launch-curve.ipynb`](notebooks/gta6-launch-curve.ipynb) loads all three tables and

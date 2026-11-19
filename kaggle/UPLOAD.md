@@ -1,5 +1,33 @@
 # Publishing this to Kaggle
 
+> **Published.** The dataset and notebook are live:
+>
+> - Dataset: <https://www.kaggle.com/datasets/krishnadubeyyy/gta-6-launch-night-kick-hourly-viewership>
+> - Notebook: <https://www.kaggle.com/code/krishnadubeyyy/gta-6-launch-night-on-kick-reading-the-curve>
+>
+> What follows is kept for publishing **updated versions** after collecting more hours, and for
+> anyone reproducing this from scratch.
+
+## Updating after collecting more hours
+
+```bash
+cp data/*.csv kaggle/upload/
+python -c "import kaggle; a=kaggle.KaggleApi(); a.authenticate(); \
+  a.dataset_create_version('kaggle/upload', version_notes='Adds snapshots through <date>', dir_mode='skip')"
+```
+
+Two gotchas worth remembering, both hit on the first run:
+
+- **Use "Legacy API credentials"** on kaggle.com/settings, not "API tokens". Only the legacy
+  download produces the `kaggle.json` with the 32-character key this client accepts.
+- The client builds a temp path from the upload folder's name, so a folder path containing a
+  slash makes it fail with `FileNotFoundError` on `.kaggle-uploads`. Create the matching
+  directory under `%TEMP%\.kaggle-uploads\` first, or upload from a single-segment folder name.
+
+---
+
+## Publishing from scratch
+
 Two ways. The web form is fine; the CLI is faster if you will update the dataset later.
 
 ## Option A — the website
